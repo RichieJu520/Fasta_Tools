@@ -1,0 +1,16 @@
+Bacteria	Finished	Taxon C	2
+Bacteria	Finished	Taxon A	4
+Bacteria	Finished	Taxon B	1
+Bacteria	Finished	Taxon C	3
+Bacteria	Finished	Taxon A	4
+Bacteria	Finished	Taxon B	5
+Bacteria	Finished	Taxon C	1
+Bacteria	Finished	Taxon A	2
+Bacteria	Finished	Taxon B	4
+Bacteria	Finished	Taxon C	1
+Bacteria	Finished	Taxon A	3
+Bacteria	Finished	Taxon B	4
+Bacteria	Finished	Taxon A	5
+Bacteria	Finished	Taxon B	1
+Bacteria	Finished	Taxon C	2
+Bacteria	Finished	Taxon A	4

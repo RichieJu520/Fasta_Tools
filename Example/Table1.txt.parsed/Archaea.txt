@@ -1,0 +1,5 @@
+Archaea	Finished	Taxon A	1
+Archaea	Finished	Taxon B	3
+Archaea	Finished	Taxon C	4
+Archaea	Finished	Taxon A	5
+Archaea	Finished	Taxon B	1
