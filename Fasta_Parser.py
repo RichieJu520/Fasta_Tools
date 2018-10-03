@@ -44,7 +44,6 @@ f.close()
 end=time.time()   # Timing ends
 wrerr("OK, work finished in %3.2f secs\n" % (end-start))
 f.close()
-raw_input('Press <Enter> to close this window!')
 
 
 
