@@ -1,3 +1,6 @@
+###@author Feng Ju
+###@email fengju@westlake.edu.cn
+
 print 'This script is written for parsing Large Fasta file into small sub-fastas!'
 import os
 import time, sys
